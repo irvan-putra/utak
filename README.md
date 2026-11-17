@@ -13,3 +13,4 @@ Project created. The concept, scope, and first prototype are still to be develop
 - [Worrydream](https://worrydream.com/)
 - [Dynamicland](https://dynamicland.org/)
 - [Worrydream site digest](worrydream-digest.md)
+- [Dynamicland site digest](dynamicland-digest.md) - sourced overview; five original images are linked at Dynamicland rather than copied because image reuse permission was not verified.
