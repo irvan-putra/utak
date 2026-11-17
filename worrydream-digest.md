@@ -11,7 +11,7 @@ Bret Victor's site is one continuous argument, built over twenty years: represen
 - **2007-2010:** Apple: earliest iPad UI concepts, started the future-interfaces prototyping group
 - **2003-2005:** Alesis Ion, Micron, Fusion synthesizers
 - **Training:** EE degrees, Caltech and UC Berkeley; thesis on crosstalk-eliminating bus codes
-- **License:** All public work dedicated to the public domain
+- **Reuse status:** No license or public-domain dedication was verified for this digest. The pages are publicly viewable, but public access alone does not establish permission to reproduce their text or images.
 
 ## The through-line: One idea, many forms
 
@@ -130,4 +130,4 @@ Victor's biography is not only manifestos. The site keeps two decades of side wo
 
 ---
 
-Digested 17 Nov 2026. Victor's public work is public domain, and the site is a living archive; several 2011-2013 essays now carry 2024 postscripts. Views summarized here are the site author's.
+Digested 17 Nov 2026. No license or public-domain dedication was verified for the source site; this digest makes no reuse-rights claim. The site is a living archive; several 2011-2013 essays now carry 2024 postscripts. Views summarized here are the site author's.
