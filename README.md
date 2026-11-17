@@ -12,3 +12,4 @@ Project created. The concept, scope, and first prototype are still to be develop
 
 - [Worrydream](https://worrydream.com/)
 - [Dynamicland](https://dynamicland.org/)
+- [Worrydream site digest](worrydream-digest.md)
