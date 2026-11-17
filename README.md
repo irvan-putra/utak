@@ -7,3 +7,8 @@ The direction is to make ideas easier to understand by letting people explore th
 ## Status
 
 Project created. The concept, scope, and first prototype are still to be developed.
+
+## References
+
+- [Worrydream](https://worrydream.com/)
+- [Dynamicland](https://dynamicland.org/)
