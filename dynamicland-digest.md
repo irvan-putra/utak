@@ -104,7 +104,7 @@ The Berkeley project is that vision made concrete, opening progressively: a work
 
 ## The rest of the site
 
-- **[The archive](https://dynamicland.org/archive/):** 461 cross-referenced project pages, 2013 to 2025, organized and generated in Realtalk itself. Reviewed here as an index, with two entries sampled; entries were not read page by page.
+- **[The archive](https://dynamicland.org/archive/):** 461 cross-referenced project pages, 2013 to 2025, organized and generated in Realtalk itself. Reviewed here as an index by Instinct (an AI assistant), with two entries sampled; entries were not read page by page.
 - **[The publications page](https://dynamicland.org/publications/):** the guided tour. Talks, progress reports, residents' projects (Geokit, gentle, La Tabla, Flowsheets), and outside perspectives on the lab.
 - **[Roots](https://dynamicland.org/2024/Roots/):** the lab's bookshelf of influences. **[People](https://dynamicland.org/2023/People/):** the team and community.
 - **posts.dynamic.land:** an external Mastodon blog linked from the homepage; not covered in this digest.
@@ -128,7 +128,7 @@ These captions describe placement and nearby text on the source pages, not indep
 ## What this digest covers
 
 - Read in full: the homepage, Intro and FAQ (2024), the 2017 zine, the 2018 Harvard talk, all four progress reports (2019-2022), Bootstrapping Research (2019), Computational Public Space (2024), the nonprofit narrative, the communal science lab paper, The Library, Roots, People, and the publications page.
-- The archive (461 entries) was reviewed as an index with two entries sampled; its pages were not read one by one.
+- The archive (461 entries) was reviewed as an index by Instinct (an AI assistant), with two entries sampled; its pages were not read one by one.
 - Videos (talks, demos, and the 2020 video tour) were not watched; summaries rely on the site's own text pages.
 - posts.dynamic.land, an external blog, was not covered. The CDG agenda documents behind their links page (presentation, document, poster) were not opened. Third-party writeups listed on the publications page were not individually read.
 - Interpretations are labeled ("My reading"); everything else paraphrases or quotes the site, and quoted positions are the authors'.

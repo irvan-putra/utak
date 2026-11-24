@@ -122,7 +122,7 @@ Victor's biography is not only manifestos. The site keeps two decades of side wo
 
 ## What this digest covers
 
-- 62 HTML subpages on worrydream.com were reviewed; every homepage-linked text essay was read in full, including the long ones (Magic Ink, Learnable Programming, the climate essay).
+- 62 HTML subpages on worrydream.com were reviewed by Instinct (an AI assistant); every homepage-linked text essay was read in full, including the long ones (Magic Ink, Learnable Programming, the climate essay).
 - The 2014-2024 work lives on dynamicland.org; covered here at intro, FAQ, research-agenda, and 2019 talk level, not page by page.
 - Video talks (Inventing on Principle, Stop Drawing Dead Fish, Seeing Spaces, The Future of Programming) were not watched; summaries rely on the site's own talk pages and notes.
 - Image galleries (Our Choice, Shelf 2015, Twitter headers, page layouts, Engelbart street art) were viewed as galleries, not inventoried image by image.
